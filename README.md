@@ -33,7 +33,7 @@ Na disciplina, são aplicados conhecimentos de programação, integração de si
 
 **Resultados quantitativos:** 
 
-Simulação de um eletroposto com capacidade de 20 kWh e gerenciamento de 47 unidades, conforme apresentado no vídeo.
+Simulação de um eletroposto com capacidade de 20 kWh é capaz de suportar o sistema inteiro, pois faz o uso de gerenciamento inteligente, então não vai cair a energia, conforme apresentado no vídeo.
 
 Dois modos de distribuição de energia: prioritário e igualitário.
 
