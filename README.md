@@ -1,11 +1,11 @@
 # Sprint04_SERS
 
- Challenge GoodWe
+ **Challenge GoodWe**
 
 **Sistema Inteligente de Gerenciamento e Balanceamento de Energia**
 - Vídeo: https://youtu.be/DTEVMXSQdP8
 
-Integrantes:
+**Integrantes:**
 
 André Santos de Azevedo - RM572236
 
@@ -62,7 +62,7 @@ Outro diferencial é o sistema de pontos de carbono, que incentiva a utilizaçã
 Como melhoria futura, seria importante realizar testes com dados reais de consumo para medir a economia energética, a redução de custos e os benefícios ambientais efetivamente alcançados.
 
 
-As referências e ferramentas:
+**As referências e ferramentas:**
 
 Protocolo de comunicação: Modbus, utilizado para comunicação e controle dos carregadores.
 
